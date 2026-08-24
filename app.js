@@ -5,3 +5,4 @@ console.log("trivial change 1");
 console.log("trivial change 2");
 console.log("trivial change 3");
 alert("feature 1");
+alert("feature 2");
